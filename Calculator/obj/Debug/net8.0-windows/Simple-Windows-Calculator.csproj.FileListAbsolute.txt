@@ -1,0 +1,50 @@
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.exe
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.deps.json
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.runtimeconfig.json
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple_Windows_Calculator.SimpleCalculator.resources
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.GenerateResource.cache
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfoInputs.cache
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfo.cs
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\refint\Simple-Windows-Calculator.dll
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.genruntimeconfig.cache
+C:\Users\vilik\Downloads\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\ref\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.exe
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.deps.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.runtimeconfig.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple_Windows_Calculator.SimpleCalculator.resources
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.GenerateResource.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfoInputs.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfo.cs
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.sourcelink.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\refint\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.genruntimeconfig.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\Git-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\ref\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.exe
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.deps.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.runtimeconfig.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\bin\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple_Windows_Calculator.SimpleCalculator.resources
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.GenerateResource.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfoInputs.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.AssemblyInfo.cs
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.sourcelink.json
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\refint\Simple-Windows-Calculator.dll
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.pdb
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\Simple-Windows-Calculator.genruntimeconfig.cache
+C:\Users\vilik\OneDrive\Работен плот\PROJECTS\ПРОЕКТИ\GitHub-SimpleWindowsCalculator\Simple-Windows-Calculator-master\Calculator\obj\Debug\net8.0-windows\ref\Simple-Windows-Calculator.dll
